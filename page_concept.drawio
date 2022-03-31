@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-31T20:04:34.052Z" agent="5.0 (Windows)" etag="quXNi6_m3K77vmzxvYOR" version="17.4.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-03-31T20:15:24.444Z" agent="5.0 (Windows)" etag="QvaIZEJHTwPopPxPcOBu" version="17.4.0" type="github" pages="3">
   <diagram id="seKTO6PzNV8SWmcDrxcf" name="Page-1">
     <mxGraphModel dx="1038" dy="528" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -212,7 +212,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Page 2" id="J_oPRAfIyv3qkXE9zAT2">
-    <mxGraphModel dx="1093" dy="556" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2595" dy="1320" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="s1AxEvXxrohMN4DmSD0d-0" />
         <mxCell id="s1AxEvXxrohMN4DmSD0d-1" parent="s1AxEvXxrohMN4DmSD0d-0" />
@@ -223,10 +223,10 @@
           <mxGeometry y="24" width="676" height="63" as="geometry" />
         </mxCell>
         <mxCell id="6_Oj_74ehd4sUcHYCCst-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#8697C5;" vertex="1" parent="6_Oj_74ehd4sUcHYCCst-0">
-          <mxGeometry x="1" y="684" width="676" height="62" as="geometry" />
+          <mxGeometry x="1" y="666" width="676" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="6_Oj_74ehd4sUcHYCCst-60" value="" style="triangle;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="6_Oj_74ehd4sUcHYCCst-0">
-          <mxGeometry x="465" y="164" width="104" height="157" as="geometry" />
+        <mxCell id="6_Oj_74ehd4sUcHYCCst-60" value="" style="triangle;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="6_Oj_74ehd4sUcHYCCst-0">
+          <mxGeometry x="465" y="178" width="122" height="416" as="geometry" />
         </mxCell>
         <mxCell id="6_Oj_74ehd4sUcHYCCst-61" value="Dateneingabe" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="6_Oj_74ehd4sUcHYCCst-0">
           <mxGeometry x="56" y="95" width="369" height="55" as="geometry" />
@@ -312,6 +312,32 @@
           <mxGeometry x="1" y="0.5" width="12" height="6" relative="1" as="geometry">
             <mxPoint x="-20" y="-3" as="offset" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Page3" id="ZhQRL75rZaCJdMxeLO3f">
+    <mxGraphModel dx="1887" dy="960" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="Jw2TR38CjGrT6t3LxdhQ-0" />
+        <mxCell id="Jw2TR38CjGrT6t3LxdhQ-1" parent="Jw2TR38CjGrT6t3LxdhQ-0" />
+        <mxCell id="Jw2TR38CjGrT6t3LxdhQ-2" value="Browser" style="swimlane;" vertex="1" parent="Jw2TR38CjGrT6t3LxdhQ-1">
+          <mxGeometry x="92" y="100" width="678" height="491" as="geometry" />
+        </mxCell>
+        <mxCell id="Jw2TR38CjGrT6t3LxdhQ-3" value="&lt;div&gt;&lt;font color=&quot;#FFFFFF&quot;&gt;Buchungsbestätigung&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1F346D;" vertex="1" parent="Jw2TR38CjGrT6t3LxdhQ-2">
+          <mxGeometry y="24" width="676" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="Jw2TR38CjGrT6t3LxdhQ-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#8697C5;" vertex="1" parent="Jw2TR38CjGrT6t3LxdhQ-2">
+          <mxGeometry x="-1" y="410" width="676" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Jw2TR38CjGrT6t3LxdhQ-23" value="&lt;div&gt;Anzeige der eingegebenen Daten&lt;/div&gt;&lt;div&gt;evtl. mit QR Code?&lt;br&gt;&lt;/div&gt;&lt;div&gt;Buchungsbestätigung per Email?&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Jw2TR38CjGrT6t3LxdhQ-2">
+          <mxGeometry x="53" y="180" width="348" height="182" as="geometry" />
+        </mxCell>
+        <mxCell id="IXIz6tnwr_xT_DU6YBxn-5" value="Buchungsbestätigung" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="Jw2TR38CjGrT6t3LxdhQ-2">
+          <mxGeometry x="54" y="100" width="340" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IXIz6tnwr_xT_DU6YBxn-6" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/iconoir-vol-3/24/qr-code-128.png;fontColor=#000000;" vertex="1" parent="Jw2TR38CjGrT6t3LxdhQ-2">
+          <mxGeometry x="423" y="108" width="239" height="239" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
